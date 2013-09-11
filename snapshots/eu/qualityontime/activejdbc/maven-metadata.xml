@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>eu.qualityontime</groupId>
+  <artifactId>activejdbc</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4.9-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130911170214</lastUpdated>
+  </versioning>
+</metadata>
